@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-quantum-mesh-monitor-batch-zmy",
+  "version": "1.0.0",
+  "description": "Logging and observability platform",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "quantum-mesh-monitor-batch-zmy"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-quantum-mesh-monitor-batch-zmy.git"
+  }
+}
